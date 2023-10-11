@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AFSAL-M-3
+- 👋 Hi, I’m @MUHAMMED AFSAL M
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...programming languages
 - 💞️ I’m looking to collaborate on ...MERN stack developers
